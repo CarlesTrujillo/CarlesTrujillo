@@ -32,7 +32,7 @@ La aplicación consiste en una plataforma para que los estudiantes de Formación
 
 Puedes descargar la app desde la play store aquí
 
-
+[![FPShare](https://cdn-icons-png.flaticon.com/512/300/300218.png)](https://play.google.com/store/apps/details?id=cat.copernic.fpshare&hl=es)
 
 ## Imagenes de la aplicación
 
