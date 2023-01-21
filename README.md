@@ -1,7 +1,6 @@
 ### Carles Trujillo
 
-<!--
-**CarlesTrujillo/CarlesTrujillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**CarlesTrujillo/CarlesTrujillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Soy estudiante de Ciclo superior de desarrollo de aplicaciones multiplataforma en el instituto Nicolau Copernic de la ciudad de Terrassa, Barcelona.
 
