@@ -34,13 +34,12 @@ Puedes descargar la app desde la play store aquí
 
 [![FPShare](https://cdn-icons-png.flaticon.com/512/300/300218.png)](https://play.google.com/store/apps/details?id=cat.copernic.fpshare&hl=es)
 
-## Imagenes de la aplicación
-
 ## Video presentación de FPShare
 
 [Presentación de FPShare](https://drive.google.com/file/d/1F-JFgSfb4tzAZ-wGytvj7uJnb_c85MbH/view?usp=sharing)
 
-## Capturas de ejemplo
+## Imagenes de la aplicación
+
 [![Pantalla Principal](https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/PantallaPrincipal.jpeg)]
 [![NuevaPublicacion](https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/NuevaPublicacion.jpeg)]
 [![Hilos](https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/Hilos.jpeg)]
