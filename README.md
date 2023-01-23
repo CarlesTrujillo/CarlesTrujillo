@@ -38,13 +38,16 @@ Puedes descargar la app desde la play store aquí
 
 ## Video presentación de FPShare
 
+[Presentación de FPShare](https://drive.google.com/file/d/1F-JFgSfb4tzAZ-wGytvj7uJnb_c85MbH/view?usp=sharing)
+
+## Capturas de ejemplo
 [![Pantalla Principal](https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/PantallaPrincipal.jpeg)]
 [![NuevaPublicacion](https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/NuevaPublicacion.jpeg)]
 [![Hilos](https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/Hilos.jpeg)]
 
 ## Memoria del desarrollo
 
-[Memoria](https://docs.google.com/document/d/1jaV8emmo9nF9W-eJOLvlpyrwDAhCb5BJ8PMCqVeggv8/edit?usp=sharing)
+[Memoria](https://docs.google.com/document/d/1HiETTI83DPGl4VQqTMPh0wTtt5l6Rl9B/edit?usp=sharing&ouid=105444018456001402824&rtpof=true&sd=true)
 
 ## Contacto
 
