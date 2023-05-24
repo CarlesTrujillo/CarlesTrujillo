@@ -22,8 +22,15 @@ En 2019 acabé un grado medio de Sistemas microinformaticos y redes que utilicé
 - Android Studio
 - HTML
 - CSS
+- Unity 3D
+- Visual Studio
 
 # Mis proyectos
+
+## Dead Zone
+
+Dead Zone es un video juego desarrollado en Unity 3D para mi proyecto de Unity de ciclo superior, los integrantes de este proyecto que me acompañaron en el desarrollo fueron Alexandru Cruceat y Marcos López.
+El videojuego consiste en un shooter en tercera persona donde el jugador tendrá que eliminar zombis en determinadas rondas, y al final eliminar un jefe, el juego consta de 3 mapas con distintas dificultades para que tanto jugadores casuales como ya experimentados puedan disfrutar de una buena experiencia jugando a Dead Zone.
 
 ## FPShare
 
