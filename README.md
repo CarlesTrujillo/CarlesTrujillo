@@ -32,6 +32,14 @@ En 2019 acabé un grado medio de Sistemas microinformaticos y redes que utilicé
 Dead Zone es un video juego desarrollado en Unity 3D para mi proyecto de Unity de ciclo superior, los integrantes de este proyecto que me acompañaron en el desarrollo fueron Alexandru Cruceat y Marcos López.
 El videojuego consiste en un shooter en tercera persona donde el jugador tendrá que eliminar zombis en determinadas rondas, y al final eliminar un jefe, el juego consta de 3 mapas con distintas dificultades para que tanto jugadores casuales como ya experimentados puedan disfrutar de una buena experiencia jugando a Dead Zone.
 
+## Video presentación de Dead Zone
+
+## Imagenes del videojuego
+
+## Memoria del desarrollo
+
+[Memoria](https://docs.google.com/document/d/1SN5KVgTL8gGmSrqZLV2W3R7UuH9isSezKFNu0-G1pOE/edit?usp=sharing)
+
 ## FPShare
 
 FPShare es una aplicación que desarrollamos para android en mi proyecto de ciclo superior, junto a Albert Montero y Andrés Rojas.
