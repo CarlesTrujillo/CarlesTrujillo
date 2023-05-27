@@ -36,6 +36,10 @@ El videojuego consiste en un shooter en tercera persona donde el jugador tendrá
 
 ## Imagenes del videojuego
 
+<img src="https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/menu%201.png" height="480px" width="640px">
+<img src="https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/2.png" height="480px" width="640px">
+<img src="https://github.com/CarlesTrujillo/CarlesTrujillo/blob/main/3.png" height="480px" width="640px">
+
 ## Memoria del desarrollo
 
 [Memoria](https://docs.google.com/document/d/1SN5KVgTL8gGmSrqZLV2W3R7UuH9isSezKFNu0-G1pOE/edit?usp=sharing)
