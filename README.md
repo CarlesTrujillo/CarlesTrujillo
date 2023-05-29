@@ -34,7 +34,7 @@ El videojuego consiste en un shooter en tercera persona donde el jugador tendrá
 
 ## Video presentación de Dead Zone
 
-[Presentación de FPShare](https://drive.google.com/file/d/14J6nWo6PV51k22kdB4w3STw9kC7PrTpy/view?usp=sharing)
+[Presentación de Dead Zone](https://drive.google.com/file/d/14J6nWo6PV51k22kdB4w3STw9kC7PrTpy/view?usp=sharing)
 
 ## Imagenes del videojuego
 
