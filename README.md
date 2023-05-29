@@ -32,6 +32,11 @@ En 2019 acabé un grado medio de Sistemas microinformaticos y redes que utilicé
 Dead Zone es un videojuego desarrollado en Unity 3D para mi proyecto de Unity de ciclo superior, los integrantes de este proyecto que me acompañaron en el desarrollo fueron Alexandru Cruceat y Marcos López.
 El videojuego consiste en un shooter en tercera persona donde el jugador tendrá que eliminar zombis en determinadas rondas, y al final eliminar un jefe, el juego consta de 3 mapas con distintas dificultades para que tanto jugadores casuales como ya experimentados puedan disfrutar de una buena experiencia jugando a Dead Zone.
 
+Puedes descargar el juego aquí
+
+[Windows](https://drive.google.com/file/d/1oVhZ8saZZwnpbQ72Ix3T7xMv4qnJQFk3/view?usp=drive_link)
+[Linux](https://drive.google.com/file/d/1D1RaFYNg1uVmLK8GQrneLIC9J922uUjw/view?usp=sharing) 
+
 ## Video presentación de Dead Zone
 
 [Presentación de Dead Zone](https://drive.google.com/file/d/14J6nWo6PV51k22kdB4w3STw9kC7PrTpy/view?usp=sharing)
